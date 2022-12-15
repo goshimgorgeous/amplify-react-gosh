@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyreactgosh0515e878": {}
+      },
+      "api": {
+        "amplifyreactgosh": {}
+      },
+      "storage": {
+        "resgosh": {}
       }
     }
   }
